@@ -1,4 +1,4 @@
-# chekkitapp
+# chekkit_project
 A simple application to enable consumers verify products prior to purchasing.
 
 # Heroku Django Starter Template
