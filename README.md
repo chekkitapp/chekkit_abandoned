@@ -1,6 +1,9 @@
 # chekkitproject
 A simple application to enable consumers verify products prior to purchasing.
 
+Chekkitapp ##demo: 
+https://git.heroku.com/chekkitproject.git
+
 # Heroku Django Starter Template
 
 An utterly fantastic project starter template for Django 2.0.
